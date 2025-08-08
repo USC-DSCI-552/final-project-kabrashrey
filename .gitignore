@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+*.DS_Store
+
+.idea/
+src/
+*anaconda-projects
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.vscode/
+
+# dotenv
+.env
+.venv
+venv/
+ENV/
+venv3/
+env
